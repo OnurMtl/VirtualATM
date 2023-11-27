@@ -11,7 +11,7 @@ Deposit Funds: Deposit money into your account.
 Transaction History: View a log of recent account transactions.
 Logout Feature: Securely log out of your account.
 
-How to Usethe Repository:
+How to use the Repository:
 
 
 Open in Google Colab:
